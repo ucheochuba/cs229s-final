@@ -2,3 +2,4 @@ gemma_pytorch/*
 !gemma_pytorch/gemma
 gemma_pytorch/gemma/*
 !gemma_pytorch/gemma/model.py
+scores_by_layer/*
